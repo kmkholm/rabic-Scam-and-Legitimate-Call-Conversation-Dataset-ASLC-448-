@@ -13,7 +13,7 @@ Original file is located at
  Arabic Scam & Non-Scam Call Conversation Classifier using AraBERT
 =============================================================================
  Author  : Dr. Mohammed Tawfik
- Dataset : arabic_scam_dataset_complete.xlsx (422 conversations, 8 dialects)
+ Dataset : arabic_scam_dataset_complete.xlsx (448 conversations, 9 dialects)
  Model   : aubmindlab/bert-base-arabertv2  (AraBERT v2)
  Task    : Binary classification  →  scam (1) vs not_scam (0)
 =============================================================================
