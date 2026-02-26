@@ -460,4 +460,4 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ## License
 
-CC BY 4.0 (Creative Commons Attribution 4.0 International) To access to this dataset email me :kmkhol01@gmail.com
+CC BY 4.0 (Creative Commons Attribution 4.0 International) To access to this dataset email me :kmkhol01@gmail.com OR  https://data.mendeley.com/drafts/p384bgyzz3  AND CITE  Tawfik, Mohammed (2026), “ Arabic Scam and Legitimate Call Conversation Dataset (ASLC-448)”, Mendeley Data, V2, doi: 10.17632/p384bgyzz3.2
