@@ -433,7 +433,7 @@ If you use this code in your research, please cite:
 
 **Dr. Mohammed Tawfik**
 - Institution: Ajloun National University, Jordan
-- Email: [your-email]
+- Email: KMKHOL01@GMAIL.COM
 - Research: AI, Cybersecurity, Natural Language Processing
 
 ## 📜 License
